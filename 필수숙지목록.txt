@@ -1,0 +1,14 @@
+인덱싱/슬라이싱
+vstack/hstack
+view/copy
+일괄곱셈/행렬곱셈
+max/min/sum
+random
+transpose
+MeanSquareError 수식
+
+0차원 : Scalar
+1차원 : Vector
+2차원 : Matrix
+4차원 : Tensor
+인공지능의 모든 차원은 n's Tensor로 표현함
